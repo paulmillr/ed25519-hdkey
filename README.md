@@ -1,6 +1,11 @@
-**The package is deprecated: switch to [ed25519-keygen](https://github.com/paulmillr/ed25519-keygen) with the same API.**
-
 # micro-ed25519-hdkey
+
+> [!WARNING]  
+> The repository has been merged into [micro-key-producer](https://github.com/paulmillr/micro-key-producer). Please head to the new repo for updates.
+
+    npm install micro-key-producer
+
+---
 
 Secure, minimal implementation of SLIP-0010 hierarchical deterministic (HD) wallets.
 
